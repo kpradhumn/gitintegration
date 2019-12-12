@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         int b;
         int allo_ka_chokha;
         int tangdi_kabab;
+        int mutton_rogan_josh;
     }
 }
