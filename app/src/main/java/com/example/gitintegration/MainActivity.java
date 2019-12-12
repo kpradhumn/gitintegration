@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         int a;
         int b;
+        int allo_ka_chokha;
     }
 }
